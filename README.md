@@ -1,6 +1,6 @@
-# C++ Data Structure Implementations Repository
+# C++ Data Structure Implementations
 
-This repository contains implementations in C++ of:
+This repository contains the following data structures: 
 
 - **Unsorted Array**
 - **Sorted Array**
